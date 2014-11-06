@@ -1,7 +1,8 @@
 <suite name="TestAll OEM Apigee">
-    <test name="examples">
+    <test name="local.test.examples">
         <classes>
-            <class name="examples.GoogleTest" />
+            <class name="local.test.examples.GoogleTest" />
+            <class name="local.test.examples.TestAdLinks" />
         </classes>
     </test>
 </suite>
