@@ -1,0 +1,7 @@
+<suite name="TestAll OEM Apigee">
+    <test name="examples">
+        <classes>
+            <class name="examples.GoogleTest" />
+        </classes>
+    </test>
+</suite>
